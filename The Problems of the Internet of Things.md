@@ -120,8 +120,7 @@ proprietary 868MHz radio and residential Wi-Fi. From outside, we were
 even able to achieve communications with an in-door device from 235
 metres away.
 
-Our latest module, the Chili 2 (TODO: link to Chili 2 web-page when that
-is out), comes with a microcontroller featuring [ARM TrustZone
+[Our latest module, the Chili 2](https://www.cascoda.com/chili2/), comes with a microcontroller featuring [ARM TrustZone
 technology](https://developer.arm.com/ip-products/security-ip/trustzone),
 which provides hardware-level isolation of secure code and data. This
 allows the developer to, for instance, store the network key in a way
